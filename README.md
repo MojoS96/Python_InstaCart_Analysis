@@ -25,7 +25,7 @@ Using Python I was able to perform the necessary data consistency checks and wra
 ### Project Folders Outline:
 
 1. Project Management: Project Brief 
-2. Data:
+2. Data: (Not uploaded due to file size constraints)
      - Raw Data: Original dataframes prior to manipulation
      - Prepared Data: Data Frames that have been cleaned up and prepared for Analysis
 3. Scripts: Jupyter Notebooks containing the all the code used from data consistency checks and wrangling to defining new variables and performing merges.
