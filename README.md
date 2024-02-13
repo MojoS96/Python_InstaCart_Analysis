@@ -24,7 +24,7 @@ Using Python I was able to perform the necessary data consistency checks and wra
 
 ### Project Folders Outline:
 
-1. Project Management: Project Brief & Data Dictionary
+1. Project Management: Project Brief 
 2. Data:
      - Raw Data: Original dataframes prior to manipulation
      - Prepared Data: Data Frames that have been cleaned up and prepared for Analysis
@@ -52,6 +52,9 @@ The provided data was analyzed using Python via Jupyter Notebooks. The following
 ### DataSets
 
 InstaCart is a real company that's made a portion of their data public - It is accessible via the following [LINK](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+
+Data Dictionary: [HERE](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
 The download package consists of the following data files:
 - Orders
 - Orders_products_prior
